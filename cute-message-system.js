@@ -313,12 +313,7 @@ class CuteMessageBox {
         const compliments = [
             "Your smile could power the entire city with its brightness ✨",
             "You're cuter than a basket full of puppies wearing tiny sweaters 🐶",
-            "Your laugh is my favorite song - I could listen to it forever 😊",
-            "You're more beautiful than the most stunning sunset I've ever seen 🌅",
-            "You're sweeter than all the desserts in the world combined 🍭",
             "Your eyes are like beautiful galaxies I get happily lost in 👀",
-            "You're my favorite notification - I smile every time I see your name 📱",
-            "You're warmer and cozier than my favorite hoodie on a cold day 🧥",
             "You're more precious to me than all the stars in the sky ⭐",
             "You're the cutest human being to ever exist - and you're mine! 💕"
         ];
@@ -447,3 +442,4 @@ function showCompliments() {
 function showFutureDate() {
     cuteMessages.showFutureDate();
 }
+
