@@ -71,7 +71,7 @@ function setupLoginForm() {
             'cutegirl', 'myprincess', 'sorrybabe', 'missyou'
         ];
         
-        if (username === 'mylove' && validPasswords.includes(password)) {
+        if (username === 'tsg' && validPasswords.includes(password)) {
             showSection('memory-lane');
             startMemoryLane();
         } else {
@@ -343,3 +343,4 @@ style.textContent = `
     }
 `;
 document.head.appendChild(style);
+
